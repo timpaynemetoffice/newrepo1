@@ -1,2 +1,3 @@
 This is a text file
 It only has two lines at this stage
+Now 3
